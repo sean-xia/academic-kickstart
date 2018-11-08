@@ -353,8 +353,8 @@ enableGitInfo = false
   title = "个人主页"
   [languages.zh.params]
     name = "夏洪星"
-    role = "Your role in Chinese..."
+    role = "副教授"
   [[languages.zh.menu.main]]
-    name = "关于我的个人主页"
+    name = "关于"
     url = "#about"
     weight = 1
