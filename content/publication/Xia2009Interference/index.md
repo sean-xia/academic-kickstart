@@ -1,5 +1,5 @@
 +++
-title = "Interference-induced enhancement of field entanglement from an intracavity three-level V-type atom (8 pages)"
+title = "Interference-induced enhancement of field entanglement from an intracavity three-level V-type atom"
 date = 2009-01-01
 authors = ["Hongxing Xia", "Huatang Tan", "Gaoxiang Li"]
 publication_types = ["2"]
