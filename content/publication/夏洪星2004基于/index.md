@@ -1,10 +1,11 @@
 +++
-title = "基于 Systemview 的 DVB-S 传输系统仿真"
+title = "基于Systemview的DVB-S传输系统仿真"
 date = 2004-01-01
 authors = [" 夏洪星", " 张国平", " 陈明宏", " 万伟"]
 publication_types = ["2"]
-abstract = ""
+abstract = "介绍了Elanix公司的通信系统仿真工具Systemview,并以DVB-S传输系统为例说明了构建仿真电路的一般方法.根据该系统的基本原理将整个 仿真电路划分为QPSK(解)调制电路、信道编译码电路等几个子系统,并在传输线路上加入高斯白噪声以检验该系统的传输质量和抗干扰能力.通过信号观察窗 对比信号波形发现,输入输出基本一致,说明该系统在通常信噪比条件下满足可靠传输的基本要求,实现了预期目的."
 selected = "false"
 publication = "*信息技术*"
+tags = ["卫星电视传输系统;正交相位调制;系统仿真"]
 +++
 
