@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Physical Radio"
+  course = "PhD in Physics Radio"
   institution = "Huazhong Normal University"
   year = 2011
 
