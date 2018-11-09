@@ -21,9 +21,18 @@ date_format = "January 2006"
 
 
 [[experience]]
+  title = "Associate Professor"
+  company = "Department of Information and Technology, Nantong Normal College"
+  company_url = "www.ntnc.edu.cn"
+  location = "Nantong, Jiangsu Province"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Postdoctoral Fellow"
   company = "State Key Labratory of Integrated Services Networks,  Xidian University"
-  company_url = ""
+  company_url = "www.xidian.edu.cn"
   location = "Xi'an Shanxi Province"
   date_start = "2015-08-01"
   date_end = "2018-09-30"
@@ -35,13 +44,13 @@ date_format = "January 2006"
   company_url = ""
   location = "MHK, U.S.A."
   date_start = "2013-05-01"
-  date_end = ""
+  date_end = "2013-11-20"
   description = ""
 
 [[experience]]
   title = "Associate Professor"
   company = "Department of Computer and Information Science, Hubei Engineering University"
-  company_url = ""
+  company_url = "www.hbeu.edu.cn"
   location = "Xiaogan Hubei Province"
   date_start = "2013-07-01"
   date_end = "2018-06-30"
