@@ -36,7 +36,7 @@ weight = 7
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Matlab"
+  description = "90%"
 
 +++
