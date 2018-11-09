@@ -56,7 +56,4 @@ date_format = "January 2006"
   date_end = "2018-06-30"
   description = ""
  
-
-
-
 +++
