@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "夏洪星的主页"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -29,7 +29,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
@@ -99,11 +99,11 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
